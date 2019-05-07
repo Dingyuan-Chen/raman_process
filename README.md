@@ -13,4 +13,4 @@ raman_example_v2.py   GUI file for user friendly(faster)<br>
 
 # Usage
 open the GUI and fine-tune the parameters of the baseline and smooth.<br>
-![example](https://github.com/DuncanChen2018/shp2coco/blob/master/example_data/example.png)
+![GUI](https://github.com/DuncanChen2018/raman_process/blob/master/GUI.png)
